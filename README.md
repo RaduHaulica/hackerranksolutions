@@ -1,5 +1,6 @@
 # Java problems + algorithms + data structures
 
-Graphs - graph.java
+##Graphs
+DFS, BFS, topological sort - [graph.java](https://github.com/RaduHaulica/java/blob/master/graphs/graph.java)
 
 Hackerrank challenges
