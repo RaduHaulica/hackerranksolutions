@@ -43,4 +43,4 @@ Solutions to some standard algorithms and data structure problems i did for codi
 | Warmup | [Staircase](https://www.hackerrank.com/challenges/staircase/problem) | [Solution](https://github.com/RaduHaulica/java/blob/master/hackerrank/algorithms/warmup/Staircase.java) |
 | Warmup | [Mini-max sum](https://www.hackerrank.com/challenges/mini-max-sum/problem) | [Solution](https://github.com/RaduHaulica/java/blob/master/hackerrank/algorithms/warmup/Mini-Max%20Sum.java) |
 | Warmup | [Birthday cake candles](https://www.hackerrank.com/challenges/birthday-cake-candles/problem) | [Solution](https://github.com/RaduHaulica/java/blob/master/hackerrank/algorithms/warmup/Birthday%20Cake%20Candles.java) |
-| Warmup | [Time conversion](https://www.hackerrank.com/challenges/time-conversion/problem) | [Time conversion](https://github.com/RaduHaulica/java/blob/master/hackerrank/algorithms/warmup/Time%20Conversion.java) |
+| Warmup | [Time conversion](https://www.hackerrank.com/challenges/time-conversion/problem) | [Solution](https://github.com/RaduHaulica/java/blob/master/hackerrank/algorithms/warmup/Time%20Conversion.java) |
