@@ -31,3 +31,16 @@ Solutions to some standard algorithms and data structure problems i did for codi
 | Stack | [Balanced brackets](https://www.hackerrank.com/challenges/balanced-brackets/problem) | [Solution](https://github.com/RaduHaulica/java/blob/master/hackerrank/data%20structures/stacks/Balanced%20Brackets.java) |
 
 #### Algorithms
+
+| Category | Problem | Solution |
+| ----- | ----- | ----- |
+| Warmup | [Solve me first](https://www.hackerrank.com/challenges/solve-me-first/problem) | [Solution](https://github.com/RaduHaulica/java/blob/master/hackerrank/algorithms/warmup/Solve%20Me%20First.java) |
+| Warmup | [Simple array sum](https://www.hackerrank.com/challenges/simple-array-sum/problem) | [Solution](https://github.com/RaduHaulica/java/blob/master/hackerrank/algorithms/warmup/Simple%20Array%20Sum.java) |
+| Warmup | [Compare the triplets](https://www.hackerrank.com/challenges/compare-the-triplets/problem) | [Solution](https://github.com/RaduHaulica/java/blob/master/hackerrank/algorithms/warmup/Compare%20the%20Triplets.java) |
+| Warmup | [A very big sum](https://www.hackerrank.com/challenges/a-very-big-sum/problem) | [Solution](https://github.com/RaduHaulica/java/blob/master/hackerrank/algorithms/warmup/A%20Very%20Big%20Sum.java) |
+| Warmup | [Diagonal difference](https://www.hackerrank.com/challenges/diagonal-difference/problem) | [Solution](https://github.com/RaduHaulica/java/blob/master/hackerrank/algorithms/warmup/Diagonal%20Difference.java) |
+| Warmup | [Plus minus](https://www.hackerrank.com/challenges/plus-minus/problem) | [Solution](https://github.com/RaduHaulica/java/blob/master/hackerrank/algorithms/warmup/Plus%20Minus.java) |
+| Warmup | [Staircase](https://www.hackerrank.com/challenges/staircase/problem) | [Solution](https://github.com/RaduHaulica/java/blob/master/hackerrank/algorithms/warmup/Staircase.java) |
+| Warmup | [Mini-max sum](https://www.hackerrank.com/challenges/mini-max-sum/problem) | [Solution](https://github.com/RaduHaulica/java/blob/master/hackerrank/algorithms/warmup/Mini-Max%20Sum.java) |
+| Warmup | [Birthday cake candles](https://www.hackerrank.com/challenges/birthday-cake-candles/problem) | [Solution](https://github.com/RaduHaulica/java/blob/master/hackerrank/algorithms/warmup/Birthday%20Cake%20Candles.java) |
+| Warmup | [Time conversion](https://www.hackerrank.com/challenges/time-conversion/problem) | [Time conversion](https://github.com/RaduHaulica/java/blob/master/hackerrank/algorithms/warmup/Time%20Conversion.java) |
