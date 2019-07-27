@@ -6,7 +6,9 @@ DFS, BFS, topological sort - [graph.java](https://github.com/RaduHaulica/java/bl
 
 ## Hackerrank challenges
 
-Solutions to some standard algorithms and data structure problems i did for coding test practice. [My Hackerrank profile](https://www.hackerrank.com/radu_haulica).
+Solutions to some standard algorithms and data structure problems i did for coding test practice.
+
+[My Hackerrank profile](https://www.hackerrank.com/radu_haulica).
 
 #### Data structures
 
