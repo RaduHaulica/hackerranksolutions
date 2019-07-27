@@ -8,7 +8,7 @@ DFS, BFS, topological sort - [graph.java](https://github.com/RaduHaulica/java/bl
 
 Solutions to some standard algorithms and data structure problems i did for coding test practice. [My Hackerrank profile](https://www.hackerrank.com/radu_haulica).
 
-#### data structures - linked lists
+#### Data structures
 
 | Category | Problem | Solution |
 | ----- | -----| ----- |
@@ -21,5 +21,13 @@ Solutions to some standard algorithms and data structure problems i did for codi
 | LinkedList | [Print elements in list](https://www.hackerrank.com/challenges/print-the-elements-of-a-linked-list/problem) | [Solution](https://github.com/RaduHaulica/java/blob/master/hackerrank/data%20structures/linked%20lists/Print%20the%20Elements%20of%20a%20Linked%20List.java) |
 | LinkedList | [Reverse doubly linked list](https://www.hackerrank.com/challenges/reverse-a-doubly-linked-list/problem) | [Solution](https://github.com/RaduHaulica/java/blob/master/hackerrank/data%20structures/linked%20lists/Reverse%20a%20doubly%20linked%20list.java) |
 | LinkedList | [Reverse linked list](https://www.hackerrank.com/challenges/reverse-a-linked-list/problem) | [Solution](https://github.com/RaduHaulica/java/blob/master/hackerrank/data%20structures/linked%20lists/Reverse%20a%20linked%20list.java) |
+| Tree | [Binary search tree insertion](https://www.hackerrank.com/challenges/binary-search-tree-insertion/problem) | [Solution](https://github.com/RaduHaulica/java/blob/master/hackerrank/data%20structures/trees/Binary%20Search%20Tree%20Insertion.java) |
+| Tree | [Is this a binary search tree](https://www.hackerrank.com/challenges/is-binary-search-tree/problem) | [Solution](https://github.com/RaduHaulica/java/blob/master/hackerrank/data%20structures/trees/Is%20This%20a%20Binary%20Search%20Tree.java) |
+| Tree | [Height of a binary tree](https://www.hackerrank.com/challenges/tree-height-of-a-binary-tree/problem) | [Solution](https://github.com/RaduHaulica/java/blob/master/hackerrank/data%20structures/trees/Tree%20Height%20of%20a%20Binary%20Tree.java) |
+| Tree | [Tree inorder traversal](https://www.hackerrank.com/challenges/tree-inorder-traversal/problem) | [Solution](https://github.com/RaduHaulica/java/blob/master/hackerrank/data%20structures/trees/Tree%20Inorder%20Traversal.java) |
+| Tree | [Tree level order traversal](https://www.hackerrank.com/challenges/tree-level-order-traversal/problem) | [Solution](https://github.com/RaduHaulica/java/blob/master/hackerrank/data%20structures/trees/Tree%20Level%20Order%20Traversal.java) |
+| Tree | [Tree postorder traversal](https://www.hackerrank.com/challenges/tree-postorder-traversal/problem) | [Solution](https://github.com/RaduHaulica/java/blob/master/hackerrank/data%20structures/trees/Tree%20Postorder%20Traversal.java) |
+| Tree | [Tree preorder traversal](https://www.hackerrank.com/challenges/tree-preorder-traversal/problem) | [Solution](https://github.com/RaduHaulica/java/blob/master/hackerrank/data%20structures/trees/Tree%20Preorder%20Traversal.java) |
+| Stack | [Balanced brackets](https://www.hackerrank.com/challenges/balanced-brackets/problem) | [Solution](https://github.com/RaduHaulica/java/blob/master/hackerrank/data%20structures/stacks/Balanced%20Brackets.java) |
 
-#### algorithms
+#### Algorithms
